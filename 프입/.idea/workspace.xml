@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48c6adf2-9a92-4f08-976d-7b72c7ca8f12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="프입" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZU4UgBLBaMNgB4UuMjnWjSGbyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week10/venv" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="프입" sdk-home="C:\Users\user\AppData\Local\Programs\Python\Python38-32\python.exe" working-directory="$PROJECT_DIR$/Week10">
+        <option name="useSoftWraps" value="true" />
+        <option name="mySdkHome" value="C:\Users\user\AppData\Local\Programs\Python\Python38-32\python.exe" />
+        <option name="myModuleName" value="프입" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/Week10" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.classAtm">
+    <configuration name="상속 연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week9/상속 연습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연습1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연습1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연습문제1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week12/연습문제1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week15/연습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="시도" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week15/시도.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classAtm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week15/classAtm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="miniproject 2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="프입" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week14/miniproject 2-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classAtm" />
+        <item itemvalue="Python.연습" />
+        <item itemvalue="Python.상속 연습" />
+        <item itemvalue="Python.miniproject 2-3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c6adf2-9a92-4f08-976d-7b72c7ca8f12" name="Default Changelist" comment="" />
+      <created>1584880356121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584880356121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="0" key="#CSV" timestamp="1588774575457">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#CSV/0.0.1218.720@0.0.1218.720" timestamp="1588774575457" />
+    <state x="86" y="0" key="#Class" timestamp="1588818373281">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="86" y="0" key="#Class/0.0.1218.720@0.0.1218.720" timestamp="1588818373281" />
+    <state x="0" y="0" key="#Class_예시" timestamp="1591263189154">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="0" y="0" key="#Class_예시/0.0.1218.720@0.0.1218.720" timestamp="1591263189154" />
+    <state x="404" y="22" key="#Inspections" timestamp="1588815677281">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="404" y="22" key="#Inspections/0.0.1218.720@0.0.1218.720" timestamp="1588815677281" />
+    <state x="40" y="0" key="#Midterm" timestamp="1588815549336">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="40" y="0" key="#Midterm/0.0.1218.720@0.0.1218.720" timestamp="1588815549336" />
+    <state x="672" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591450226005">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="672" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1218.720@0.0.1218.720" timestamp="1591450226005" />
+    <state x="644" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588769225566">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="644" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1588769225566" />
+    <state x="328" y="0" key="#elif" timestamp="1588746316793">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#elif/0.0.1218.720@0.0.1218.720" timestamp="1588746316793" />
+    <state x="39" y="0" key="#ex3" timestamp="1588743773979">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#ex3/0.0.1218.720@0.0.1218.720" timestamp="1588743773979" />
+    <state x="328" y="0" key="#ex4" timestamp="1588744089997">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#ex4/0.0.1218.720@0.0.1218.720" timestamp="1588744089997" />
+    <state x="40" y="0" key="#ex5" timestamp="1588744739411">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="40" y="0" key="#ex5/0.0.1218.720@0.0.1218.720" timestamp="1588744739411" />
+    <state x="328" y="0" key="#ex6_set" timestamp="1588745370670">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#ex6_set/0.0.1218.720@0.0.1218.720" timestamp="1588745370670" />
+    <state x="39" y="0" key="#file" timestamp="1588767115548">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#file/0.0.1218.720@0.0.1218.720" timestamp="1588767115548" />
+    <state x="328" y="0" key="#file_연습문제" timestamp="1588771115293">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#file_연습문제/0.0.1218.720@0.0.1218.720" timestamp="1588771115293" />
+    <state x="328" y="0" key="#for" timestamp="1588749194860">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#for/0.0.1218.720@0.0.1218.720" timestamp="1588749194860" />
+    <state x="328" y="0" key="#if" timestamp="1588752023313">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#if/0.0.1218.720@0.0.1218.720" timestamp="1588752023313" />
+    <state x="39" y="0" key="#lambda" timestamp="1588759206033">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#lambda/0.0.1218.720@0.0.1218.720" timestamp="1588759206033" />
+    <state x="39" y="0" key="#mod1" timestamp="1591434609076">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#mod1/0.0.1218.720@0.0.1218.720" timestamp="1591434609076" />
+    <state x="39" y="0" key="#module_예시" timestamp="1591434219693">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#module_예시/0.0.1218.720@0.0.1218.720" timestamp="1591434219693" />
+    <state x="39" y="0" key="#phones.txt" timestamp="1588768248251">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#phones.txt/0.0.1218.720@0.0.1218.720" timestamp="1588768248251" />
+    <state x="76" y="0" key="#while" timestamp="1588747029565">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="76" y="0" key="#while/0.0.1218.720@0.0.1218.720" timestamp="1588747029565" />
+    <state x="328" y="0" key="#while_(1)" timestamp="1588752635194">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#while_(1)/0.0.1218.720@0.0.1218.720" timestamp="1588752635194" />
+    <state x="39" y="0" key="#박씨네" timestamp="1589546856345">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#박씨네/0.0.1218.720@0.0.1218.720" timestamp="1589546856345" />
+    <state x="327" y="0" key="#연습1" timestamp="1587562802628">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="327" y="0" key="#연습1/0.0.1218.720@0.0.1218.720" timestamp="1587562802628" />
+    <state x="78" y="0" key="#연습_문제_1" timestamp="1591275360960">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="78" y="0" key="#연습_문제_1/0.0.1218.720@0.0.1218.720" timestamp="1591275360960" />
+    <state x="39" y="0" key="#연습문제(통장)" timestamp="1591261590506">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="39" y="0" key="#연습문제(통장)/0.0.1218.720@0.0.1218.720" timestamp="1591261590506" />
+    <state x="328" y="0" key="#커피_시도" timestamp="1588842944937">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#커피_시도/0.0.1218.720@0.0.1218.720" timestamp="1588842944937" />
+    <state x="328" y="0" key="#함수" timestamp="1588753476740">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="0" key="#함수/0.0.1218.720@0.0.1218.720" timestamp="1588753476740" />
+    <state x="633" y="100" width="491" height="527" key="DiffContextDialog" timestamp="1593114061445">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="633" y="100" width="491" height="527" key="DiffContextDialog/0.0.1218.720@0.0.1218.720" timestamp="1593114061445" />
+    <state x="638" y="115" key="FileChooserDialogImpl" timestamp="1591741391706">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="638" y="115" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1591741391706" />
+    <state width="1197" height="2" key="GridCell.Tab.0.bottom" timestamp="1593322303446">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1197" height="2" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1593322303446" />
+    <state width="1197" height="2" key="GridCell.Tab.0.center" timestamp="1593322303446">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1197" height="2" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1593322303446" />
+    <state width="1197" height="2" key="GridCell.Tab.0.left" timestamp="1593322303446">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1197" height="2" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1593322303446" />
+    <state width="1197" height="2" key="GridCell.Tab.0.right" timestamp="1593322303446">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1197" height="2" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1593322303446" />
+    <state width="588" height="215" key="GridCell.Tab.1.bottom" timestamp="1593120020219">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="588" height="215" key="GridCell.Tab.1.bottom/0.0.1218.720@0.0.1218.720" timestamp="1593120020219" />
+    <state width="588" height="215" key="GridCell.Tab.1.center" timestamp="1593120020219">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="588" height="215" key="GridCell.Tab.1.center/0.0.1218.720@0.0.1218.720" timestamp="1593120020219" />
+    <state width="588" height="215" key="GridCell.Tab.1.left" timestamp="1593120020218">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="588" height="215" key="GridCell.Tab.1.left/0.0.1218.720@0.0.1218.720" timestamp="1593120020218" />
+    <state width="588" height="215" key="GridCell.Tab.1.right" timestamp="1593120020219">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="588" height="215" key="GridCell.Tab.1.right/0.0.1218.720@0.0.1218.720" timestamp="1593120020219" />
+    <state x="291" y="13" width="914" height="707" key="SettingsEditor" timestamp="1591741721499">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="291" y="13" width="914" height="707" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1591741721499" />
+    <state x="632" y="70" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1591434192771">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="632" y="70" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1218.720@0.0.1218.720" timestamp="1591434192771" />
+    <state x="313" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593157160889">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="313" y="188" key="com.intellij.ide.util.TipDialog/0.0.1218.720@0.0.1218.720" timestamp="1593157160889" />
+    <state x="253" y="96" width="520" height="485" key="dock-window-1" timestamp="1588821341331">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="253" y="96" width="520" height="485" key="dock-window-1/0.0.1218.720@0.0.1218.720" timestamp="1588821341331" />
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1593107303031">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1218.720@0.0.1218.720" timestamp="1593107303031" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week13/try.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
